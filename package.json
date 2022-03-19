@@ -1,0 +1,21 @@
+{
+  "name": "alfred",
+  "version": "1.0.0",
+  "description": "Adding Alfred functionality to the modal file manager.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modalfilemanager"
+  ],
+  "author": "Richard Guay",
+  "license": "MIT",
+  "mfmextension": {
+    "name": "alfred",
+    "description": "Adding Alfred functionality to the modal file manager.",
+    "type": 0,
+    "github": "",
+    "main": "main.js"
+  }
+}
